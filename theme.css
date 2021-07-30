@@ -19,10 +19,10 @@ body {
 }
 
 .btn {
-    color: #42b983;
+    color: green;
     position: relative;
     border-radius: 99px;
-    border: 1px solid #42b983;
+    border: 1px solid green;
     text-decoration: none;
     text-transform: uppercase;
     padding: 0.5rem 1.5rem;
@@ -35,7 +35,7 @@ body {
 }
 
 .btn.primary {
-    background: #42b983;
+    background: green;
     color: #fff;
 }
 
@@ -119,7 +119,7 @@ input[type=file] {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #42b983;
+    background: green;
     display: flex;
     align-items: center;
     justify-content: center;
